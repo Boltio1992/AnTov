@@ -1,0 +1,14 @@
+[
+  {
+    "id": "outbreak-line",
+    "name": "Outbreak Line",
+    "emoji": "🚆",
+    "desc": "Stories riding the same doomed railway, where every train is a sealed room."
+  },
+  {
+    "id": "pp-after-dark",
+    "name": "Phnom Penh After Dark",
+    "emoji": "🌃",
+    "desc": "When the city's lights go low, the jobs nobody wants become the jobs nobody survives."
+  }
+]
